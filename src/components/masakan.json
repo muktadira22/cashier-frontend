@@ -1,0 +1,67 @@
+{
+    "makanan" : [
+        {
+            "id" : "M0001",
+            "nama"  : "Ayam Goreng",
+            "jenis" : "makanan",
+            "harga" : 18000,
+            "stock" : 80,
+            "photo" : "fb.png"
+        },
+        {
+            "id" : "M0002",
+            "nama"  : "Ayam Krenyes",
+            "jenis" : "makanan",
+            "harga" : 15000,
+            "stock" : 30,
+            "photo" : "fb.png"
+        },
+        {
+            "id" : "M0006",
+            "nama"  : "Seblak Kikil",
+            "jenis" : "makanan",
+            "harga" : 15000,
+            "stock" : 100,
+            "photo" : "fb.png"
+        }
+
+    ],
+
+    "minuman" : [
+        {
+            "id" : "M0003",
+            "nama"  : "Ice Tea",
+            "jenis" : "minuman",
+            "harga" : 5000,
+            "stock" : 100,
+            "photo" : "fb.png"
+        },
+        {
+            "id" : "M0004",
+            "nama"  : "Nuruktuk Ice",
+            "jenis" : "minuman",
+            "harga" : 3000,
+            "stock" : 80,
+            "photo" : "fb.png"
+        }
+    ],
+
+    "other" : [
+        {
+            "id" : "M0005",
+            "nama"  : "Nasi",
+            "jenis" : "lain-lain",
+            "harga" : 5000,
+            "stock" : 80,
+            "photo" : "fb.png"
+        },
+        {
+            "id" : "M0007",
+            "nama"  : "Tulang Taleng",
+            "jenis" : "lain-lain",
+            "harga" : 2000,
+            "stock" : 80,
+            "photo" : "fb.png"
+        }
+    ]
+}
